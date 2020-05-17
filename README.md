@@ -1,2 +1,2 @@
 # Deep-Learning
-Convolutional Neural Network, GANs, DCGANs
+GANs, DCGANs
